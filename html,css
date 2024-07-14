@@ -294,7 +294,7 @@ footer {
     <header>
         <nav>
             <div id="logo">
-                <img src="/images/khushbu sign.png" height="69px" width="180">
+                <img src="images/khushbu sign.png" height="69px" width="180">
             </div>
             <div id="menu">
                 <a href="#">Home</a>
